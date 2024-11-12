@@ -1,0 +1,18 @@
+nav {
+  display: flex; 
+  top:10px;
+  justify-content: center;
+  background-color: #333;
+  padding: 20px;
+  font-size: medium;
+}
+
+a {
+  color: white;
+  margin-right: 20px; 
+  text-decoration: none;
+}
+
+a:hover{
+  background-color: rgb(78, 75, 75);
+}
